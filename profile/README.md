@@ -15,3 +15,6 @@
 |  Bagas Widiatmoko         | Mobile Development | A009D4KY3951| Universitas Gunadarma |
 
 ## Repositories
+* [Machine Learning](https://github.com/Rupiah-Reader-C241-PS460/ML-Progress)
+* [Mobile Development](https://github.com/Rupiah-Reader-C241-PS460/MD-Progress)
+* [Cloud Computing](https://github.com/Rupiah-Reader-C241-PS460/CC-Progress)
