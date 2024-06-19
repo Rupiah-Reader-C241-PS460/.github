@@ -1,6 +1,7 @@
 # **Rupiah Reader - C241-PS460 - Bangkit 2024**
 
 ## What is Rupiah Reader?
+Rupiah Reader is an application to detect the value of Rupiah bank notes. This application intended to help visually impaired people to better recognize bank notes with ease and simplicity.
 
 ## Team Members
 
